@@ -22,11 +22,11 @@ public class AmazonClass {
 //		CreateAccount.click();
 //		
 //		WebElement username = driver.findElement(By.xpath("//input[@name='customerName']"));
-//		username.sendKeys("Akshay Shinde");
+//		username.sendKeys("Kalpana Aute");
 //		WebElement MobileNo = driver.findElement(By.xpath("//input[@id='ap_phone_number']"));
-//		MobileNo.sendKeys("8888167026");
+//		MobileNo.sendKeys("9423579990");
 //		WebElement password = driver.findElement(By.xpath("//input[@name='password']"));
-//		password.sendKeys("akshay123");
+//		password.sendKeys("kalpana123");
 //		WebElement submitbutton = driver.findElement(By.xpath("//input[@id='continue']"));
 //		submitbutton.click();
 		
